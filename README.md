@@ -1,2 +1,2 @@
 # MyFirstSpringApp
-This is my spring first app for demo purpose.
+This is my spring first app for demo purpose. Just creating an object by using a Spring and that by using XML configration...
